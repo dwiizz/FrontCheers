@@ -25,24 +25,24 @@
 
 "ENABLE_STRAP" : false,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
-"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-4854064161928866/5636323722",
+"ADMOB_INTER" : "ca-app-pub-4854064161928866/5731692495",
 
-"HPK_ALIENDROID" : "kuota data 30gb",
-"HPK_ADMOB1" : "Kuota Data",
-"HPK_ADMOB2" : "bank jenius",
-"HPK_ADMOB3" : "bank jago",
-"HPK_ADMOB4" : "telkomsel",
-"HPK_ADMOB5" : "donasi",
+"HPK_ALIENDROID" : "netflix",
+"HPK_ADMOB1" : "amazon",
+"HPK_ADMOB2" : "disney",
+"HPK_ADMOB3" : "warner bros",
+"HPK_ADMOB4" : "bandai",
+"HPK_ADMOB5" : "ea",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "Interstitial",
-"UNITY_GAME_ID" : "4082115",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "4173775",
 "UNITY_TEST_MODE" : false,
 
-"STARAPPID" : "201365479",
+"STARAPPID" : "203773357",
 
 "APPLOVIN_BANNER_ID" : "ISIAN",
 "APPLOVIN_INTERSTITIAL_ID" : "ISIAN",
